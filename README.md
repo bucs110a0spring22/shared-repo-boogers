@@ -5,6 +5,6 @@
 
 ## Team Members
 
-* Team Member 1: John Dambra
+* Team Member 1: Erin Zhao
 * Team Member 2: Rachel Todd
-* Team Member 3: Erin Zhao
+* Team Member 3: John Dambra
